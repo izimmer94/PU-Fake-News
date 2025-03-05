@@ -1,2 +1,2 @@
-# pu_fake_news
-Positive-unlabeled learning approach for detecting fake news. 
+# Positive-Unlabeled Fake News Problem
+This project aims to analyze news articles to predict whether they are fake or real. However, instead of using the traditional approach with fully labeled datasets, positive samples will be treated as unlabeled creating a positive-unlabeled (PU) learning scenario. This method adds an extra layer of difficulty in the classification process that we hope to tackle in this project.
